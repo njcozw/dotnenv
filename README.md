@@ -4,7 +4,7 @@
 
 ```
 
-composer require njcozw/dotnev:dev-master
+composer require njcozw/dotenv:dev-master
 
 ```
 
